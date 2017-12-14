@@ -1,6 +1,6 @@
-# Bobop.C Blog
+# Whale.Sun Blog
 
-###[http://playingfingers.com](http://playingfingers.com)
+###[http://www.whalesun.cn](http://www.whalesun.cn)
 
 
 ## Thanks
