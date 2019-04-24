@@ -26,5 +26,3 @@ tags:
   
 ![avatar](/img/color-cloud.jpg)  
   
-你    
-别自以为是了
